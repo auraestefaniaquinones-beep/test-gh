@@ -13,27 +13,32 @@ git add --all
 git commit -m "comentario"
 ```
 
-# 👋 Hola, soy Estefanía
+# 👋 Hola, soy Aura Estefanía Quiñones
 
 🎓 Estudiante de Ingeniería de Sistemas  
 💻 Interesada en aprender programación y bases de datos  
-📚 Actualmente en proceso de formación académica  
+📚 Actualmente en proceso de formación académica
+
+---
 
 ## 🛠️ Conocimientos
-- 🐍 Python
-- 🗄️ Bases de datos (MySQL)
-- 🌐 HTML y CSS (básico)
-- 🔧 Git y GitHub
+- 🐍 Python (básico)
+- 🗄️ Bases de datos (basico)
+- 🌐 HTML y CSS (nivel basico)
+- 🔧 Git y GitHub (nivel básico)
+
+---
 
 ## 📚 Actualmente aprendiendo
-- Desarrollo de software
-- Manejo de bases de datos
-- Buenas prácticas en programación
+- Mejorar mis habilidades en Python  
+- Uso práctico de bases de datos  
+- Conceptos de programación y buenas prácticas  
+
+---
 
 ## 📌 Proyectos
-- Sistema de inventario
-- Caja de recuerdos
-
+- Sistema de inventario (en desarrollo)  
+- Caja de recuerdos (proyecto académico)
 ## 📫 Contacto
 - 📧 auraestefaniaquinones@email.com
 
