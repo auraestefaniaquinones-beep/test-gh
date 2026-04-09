@@ -38,4 +38,4 @@ git commit -m "comentario"
 - 📧 auraestefaniaquinones@email.com
 
 ## 📸 Sobre mí
-![Mi foto](foto.png)
+![Mi foto](imagenes/foto.png)
