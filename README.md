@@ -1,2 +1,2 @@
 # test-gh
-#Autora: Aura Estefania Quiñones
+autora: Aura Quiñones 
